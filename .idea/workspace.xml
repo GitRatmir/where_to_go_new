@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7485f403-d2f2-4d6e-965d-544c60d9b75c" name="Default Changelist" comment="Add blank start page">
+      <change afterPath="$PROJECT_DIR$/static/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/hand-pointer-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet-sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet-sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/moscow_legends.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/roofs24.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/where_to_go_new/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/where_to_go_new/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/where_to_go_new/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/where_to_go_new/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n1Sdg0J5LpgkFlCdfKpwUbYh2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\where_to_go_new\static" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="where_to_go_new" type="Python.DjangoServer" factoryName="Django server">
@@ -28,5 +73,72 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7485f403-d2f2-4d6e-965d-544c60d9b75c" name="Default Changelist" comment="" />
+      <created>1610556192867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610556192867</updated>
+      <workItem from="1610556194730" duration="2657000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add blank start page">
+      <created>1610556477757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610556477757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add blank start page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add blank start page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610556570041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610556570041" />
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1610557530498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610557530498" />
+    <state x="796" y="397" key="Github.ShareDialog" timestamp="1610556210326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="397" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610556210326" />
+    <state x="772" y="54" key="Github.UntrackedFilesDialog" timestamp="1610556216837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="54" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610556216837" />
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1610556428707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610556428707" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1610556428707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610556428707" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1610556428707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610556428707" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1610556428707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610556428707" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1610556483330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610556483330" />
   </component>
 </project>
